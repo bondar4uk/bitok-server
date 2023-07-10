@@ -2,7 +2,6 @@
 /dist
 /node_modules
 
-
 # Logs
 logs
 *.log
@@ -34,4 +33,3 @@ lerna-debug.log*
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
-
